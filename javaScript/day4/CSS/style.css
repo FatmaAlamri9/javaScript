@@ -1,0 +1,30 @@
+div{
+    background-color: cadetblue;
+    background-size: 500px 500px;
+    text-align: center;
+    /* background: linear-gradient(to left,red,yellow); */
+    background:radial-gradient(red,yellow);
+}
+ h1{
+    text-shadow: 5px 5px  5px yellow;
+    color: blueviolet;
+    text-align: center;
+ }
+table{
+    border-style: dotted;
+    width: 100px;
+    height: 100px;
+   
+}
+
+ th{
+    background-color:aqua;
+ }
+ td{
+    background-color: aquamarine;
+ }
+ 
+ .o{
+    width: 99px;
+    height: 99px;
+ }
