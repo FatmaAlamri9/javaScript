@@ -1,0 +1,11 @@
+/* .box{
+    background-color: blueviolet;
+} */
+
+table,tr,th
+{
+    border-color: antiquewhite;
+    border: 2px ;
+    border-width: 2px;
+    border-width: 3px;
+}
